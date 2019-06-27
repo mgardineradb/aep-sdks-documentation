@@ -19,6 +19,10 @@ Click **Install** on the extension card. No extension settings are required.
 ## Add Project Griffon to your app
 
 {% tabs %}
+{% tab title="Android" %}
+#### Java
+{% endtab %}
+
 {% tab title="iOS" %}
 1. Add the library to your project via your Cocoapods `Podfile` by adding `pod 'ACPGriffonBeta'` ​
 2. Import the Project Griffon libraries along with other SDK libraries:
